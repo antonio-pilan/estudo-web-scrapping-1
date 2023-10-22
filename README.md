@@ -5,5 +5,5 @@ Varremos o conteúdo da página Fortune 500 que nos retorne informações das ma
 
 A intenção principal desse projeto é extrair corretamente a informação e do HTML até ele ser 'trabalhável' usando Pandas.
 
-O código é escrito no arquivo Exercicio_Ebac_Pandas.ipynb 
+O código é escrito no arquivo *Exercicio_Ebac_Pandas.ipynb*
 e são testadas diversas operações com Pandas após o processo de Scrapping.
